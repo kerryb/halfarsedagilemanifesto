@@ -1,0 +1,30 @@
+body {
+  text-align:center;
+  background:#e9e9e9 url('drones.png') no-repeat top center;
+  font-family:'Helvetica Neue',Arial,'Liberation Sans',FreeSans,sans-serif;
+  font-size:21px;
+  color:black;
+}
+h1 {
+  font-size:30px;
+  font-weight:bold;
+  margin:2em 0 1em 0;
+}
+p {
+  margin:0.5em 0 0 0;
+}
+#introduction {
+  margin-bottom:1em;
+}
+#values .more {
+  font-size:28px;
+}
+#values .qualification {
+  margin:0 auto 0 auto;
+  font-size:16px;
+  font-style:italic;
+  color:#888;
+}
+#conclusion {
+  margin-top:1.5em;
+}
