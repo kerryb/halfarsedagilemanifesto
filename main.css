@@ -28,3 +28,8 @@ p {
 #conclusion {
   margin-top:1.5em;
 }
+#footer, #footer a {
+  margin-top:2em;
+  font-size:10px;
+  color:#aaa;
+}
